@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanglap13&label=Profile%20views&color=0e75b6&style=flat" alt="sanglap13" /> </p>
 
-- 🔭 I’m currently working on [Porfolio Website](https://github.com/sanglap13/Portfolio-Website)
+ <! -- - 🔭 I’m currently working on [Porfolio Website](https://github.com/sanglap13/Portfolio-Website) --> 
 
 - 📫 How to reach me **sanglapmridha@gmail.com**
 
