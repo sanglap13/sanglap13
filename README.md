@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanglap Mridha</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 # 💫 About Me:
 I am a Full Stack Developer and Community Enthusiast.
