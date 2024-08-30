@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sanglap Mridha</h1>
-<h3 align="center">I am a Computer Science & Engineering Undergrad having 6.5 months experience in Frontend Development</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 # 💫 About Me:
-A passionate Full-Stack Developer and Community enthusiast
+I am a Full Stack Developer and Community Enthusiast.
+
+✨ Currently working at
+🌱 Google Developer Student Clubs Lead 2023-24
+💁‍♂️ Feel free to reach out to me at sanglapmridhawork@gmail.com
+💻 Visit my [Portfolio](https://sanglap-mridha.vercel.app/) for more details about my work and projects.
+⚡ Fun Fact - I am lazy but quick learner
 
 
 ## 🌐 Socials:
