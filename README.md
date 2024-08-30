@@ -5,11 +5,11 @@
 # 💫 About Me:
 I am a Full Stack Developer and Community Enthusiast.
 
-✨ Currently working at
-🌱 Google Developer Student Clubs Lead 2023-24
-💁‍♂️ Feel free to reach out to me at sanglapmridhawork@gmail.com
-💻 Visit my [Portfolio](https://sanglap-mridha.vercel.app/) for more details about my work and projects.
-⚡ Fun Fact - I am lazy but quick learner
+- ✨ Currently working at
+- 🌱 Google Developer Student Clubs Lead 2023-24
+- 💁‍♂️ Feel free to reach out to me at sanglapmridhawork@gmail.com
+- 💻 Visit my [Portfolio](https://sanglap-mridha.vercel.app/) for more details about my work and projects.
+- ⚡ Fun Fact - I am lazy but quick learner
 
 
 ## 🌐 Socials:
