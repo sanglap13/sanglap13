@@ -3,7 +3,7 @@
 <img  align="right" alt="Coding" width="300" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 # 💫 About Me:
-I am a Full Stack Developer and Community Enthusiast.
+I am a Software Engineer, Tech Speaker and Mentor.
 
 - ✨ Currently working at Altor Smart Mobility
 - 🌱 Google Developer Student Clubs Lead 2023-24
