@@ -5,11 +5,12 @@
 # 💫 About Me:
 I am a Software Engineer, Tech Speaker and Mentor.
 
-- ✨ Currently working at Altor Smart Mobility
+- ✨ Currently working at Cozeva - Applied Research Works Pvt. Ltd.
+- Previously SWE at Altor Smart Mobility
 - 🌱 Google Developer Student Clubs Lead 2023-24
 - 💁‍♂️ Feel free to reach out to me at sanglapmridhawork@gmail.com
 - 💻 Visit my [Portfolio](https://sanglap-mridha.vercel.app/) for more details about my work and projects.
-- ⚡ Fun Fact - I am lazy but quick learner
+- ⚡ Fun Fact - I am super lazy but quick learner
 
 
 ## 🌐 Socials:
